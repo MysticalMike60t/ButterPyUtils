@@ -1,0 +1,18 @@
+[project]
+name = "ButterPyUtils"
+description = "Butter's Python utilities."
+dynamic = ["version"]
+requires-python = ">= 3.14.3"
+readme = {file = "README.md", content-type = "text/markdown"}
+authors = [
+    {name = "Caden Finkelstein", email = "me@cadenf.com"}
+]
+maintainers = [
+    {name = "Caden Finkelstein", email = "me@cadenf.com"}
+]
+dependencies = [
+  "httpx",
+  "gidgethub[httpx]>4.0.0",
+  "django>2.1; os_name != 'nt'",
+  "django>2.0; os_name == 'nt'",
+]

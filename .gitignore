@@ -1,0 +1,10 @@
+# Python
+.venv/
+build/
+
+.tmp/
+
+# DEV.sh
+.log/
+*.egg-info/
+*requirements*.txt
