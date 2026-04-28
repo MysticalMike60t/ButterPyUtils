@@ -1,10 +1,59 @@
-# Python
+#: Ignore
+##: Directories
+###: Hidden
+/[.]*/
 .venv/
-build/
-
 .tmp/
-
-# DEV.sh
 .log/
+.pytest_cache/
+.git/
+###;
+### Wildcard
 *.egg-info/
-*requirements*.txt
+###;
+###: NodeJS
+node_modules/
+###;
+###: Builds
+build/
+###;
+##;
+##: Files
+###: Wildcard
+####: Generated
+*.min.js
+####;
+###;
+##;
+##: Specific Files
+##;
+#;
+
+#: Allow
+##: Directories
+###: Wildcard Directories
+###;
+###: Specific Directories
+!.github/
+###;
+##;
+##: Files
+###: Wildcard Files
+####: Source Code
+!/src/*.js
+####;
+###;
+###: Specific Files
+####: Git Repository
+!README.md
+####;
+####: NodeJS
+!package.json
+####;
+####: PNPM
+!pnpm-lock.yaml
+!pnpm-workspace.yaml
+####;
+###;
+##;
+#;
