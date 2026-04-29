@@ -10,9 +10,4 @@ authors = [
 maintainers = [
     {name = "Caden Finkelstein", email = "me@cadenf.com"}
 ]
-dependencies = [
-  "httpx",
-  "gidgethub[httpx]>4.0.0",
-  "django>2.1; os_name != 'nt'",
-  "django>2.0; os_name == 'nt'",
-]
+dependencies = []

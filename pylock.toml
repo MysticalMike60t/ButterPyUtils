@@ -1,0 +1,206 @@
+lock-version = "1.0"
+created-by = "pip"
+
+[[packages]]
+name = "anyio"
+version = "4.13.0"
+
+[[packages.wheels]]
+name = "anyio-4.13.0-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/da/42/e921fccf5015463e32a3cf6ee7f980a6ed0f395ceeaa45060b61d86486c2/anyio-4.13.0-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "08b310f9e24a9594186fd75b4f73f4a4152069e3853f1ed8bfbf58369f4ad708"
+
+[[packages]]
+name = "asgiref"
+version = "3.11.1"
+
+[[packages.wheels]]
+name = "asgiref-3.11.1-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/5c/0a/a72d10ed65068e115044937873362e6e32fab1b7dce0046aeb224682c989/asgiref-3.11.1-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "e8667a091e69529631969fd45dc268fa79b99c92c5fcdda727757e52146ec133"
+
+[[packages]]
+name = "butterpyutils"
+
+[packages.directory]
+path = "."
+
+[[packages]]
+name = "certifi"
+version = "2026.2.25"
+
+[[packages.wheels]]
+name = "certifi-2026.2.25-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/9a/3c/c17fb3ca2d9c3acff52e30b309f538586f9f5b9c9cf454f3845fc9af4881/certifi-2026.2.25-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "027692e4402ad994f1c42e52a4997a9763c646b73e4096e4d5d6db8af1d6f0fa"
+
+[[packages]]
+name = "cffi"
+version = "2.0.0"
+
+[[packages.wheels]]
+name = "cffi-2.0.0-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.whl"
+url = "https://files.pythonhosted.org/packages/47/d9/d83e293854571c877a92da46fdec39158f8d7e68da75bf73581225d28e90/cffi-2.0.0-cp314-cp314-manylinux2014_x86_64.manylinux_2_17_x86_64.whl"
+
+[packages.wheels.hashes]
+sha256 = "afb8db5439b81cf9c9d0c80404b60c3cc9c3add93e114dcae767f1477cb53775"
+
+[[packages]]
+name = "cryptography"
+version = "46.0.6"
+
+[[packages.wheels]]
+name = "cryptography-46.0.6-cp311-abi3-manylinux_2_34_x86_64.whl"
+url = "https://files.pythonhosted.org/packages/ec/4d/8e7d7245c79c617d08724e2efa397737715ca0ec830ecb3c91e547302555/cryptography-46.0.6-cp311-abi3-manylinux_2_34_x86_64.whl"
+
+[packages.wheels.hashes]
+sha256 = "d4e4aadb7fc1f88687f47ca20bb7227981b03afaae69287029da08096853b738"
+
+[[packages]]
+name = "django"
+version = "6.0.3"
+
+[[packages.wheels]]
+name = "django-6.0.3-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/72/b1/23f2556967c45e34d3d3cf032eb1bd3ef925ee458667fb99052a0b3ea3a6/django-6.0.3-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "2e5974441491ddb34c3f13d5e7a9f97b07ba03bf70234c0a9c68b79bbb235bc3"
+
+[[packages]]
+name = "gidgethub"
+version = "5.4.0"
+
+[[packages.wheels]]
+name = "gidgethub-5.4.0-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/70/48/847be03638905119b9310d15057d18f923c0ec5c846381d2fa2ccc1b7c54/gidgethub-5.4.0-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "522bd3a846a315c3163925a840930c4c9a0d685d5853afe852fd589cb472daf5"
+
+[[packages]]
+name = "h11"
+version = "0.16.0"
+
+[[packages.wheels]]
+name = "h11-0.16.0-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/04/4b/29cac41a4d98d144bf5f6d33995617b185d14b22401f75ca86f384e87ff1/h11-0.16.0-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "63cf8bbe7522de3bf65932fda1d9c2772064ffb3dae62d55932da54b31cb6c86"
+
+[[packages]]
+name = "httpcore"
+version = "1.0.9"
+
+[[packages.wheels]]
+name = "httpcore-1.0.9-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/7e/f5/f66802a942d491edb555dd61e3a9961140fd64c90bce1eafd741609d334d/httpcore-1.0.9-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "2d400746a40668fc9dec9810239072b40b4484b640a8c38fd654a024c7a1bf55"
+
+[[packages]]
+name = "httpx"
+version = "0.28.1"
+
+[[packages.wheels]]
+name = "httpx-0.28.1-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/2a/39/e50c7c3a983047577ee07d2a9e53faf5a69493943ec3f6a384bdc792deb2/httpx-0.28.1-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "d909fcccc110f8c7faf814ca82a9a4d816bc5a6dbfea25d6591d6985b8ba59ad"
+
+[[packages]]
+name = "idna"
+version = "3.11"
+
+[[packages.wheels]]
+name = "idna-3.11-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/0e/61/66938bbb5fc52dbdf84594873d5b51fb1f7c7794e9c0f5bd885f30bc507b/idna-3.11-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "771a87f49d9defaf64091e6e6fe9c18d4833f140bd19464795bc32d966ca37ea"
+
+[[packages]]
+name = "packaging"
+version = "26.0"
+
+[[packages.wheels]]
+name = "packaging-26.0-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/b7/b9/c538f279a4e237a006a2c98387d081e9eb060d203d8ed34467cc0f0b9b53/packaging-26.0-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "b36f1fef9334a5588b4166f8bcd26a14e521f2b55e6b9de3aaa80d3ff7a37529"
+
+[[packages]]
+name = "pycparser"
+version = "3.0"
+
+[[packages.wheels]]
+name = "pycparser-3.0-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/0c/c3/44f3fbbfa403ea2a7c779186dc20772604442dde72947e7d01069cbe98e3/pycparser-3.0-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "b727414169a36b7d524c1c3e31839a521725078d7b2ff038656844266160a992"
+
+[[packages]]
+name = "pyjwt"
+version = "2.12.1"
+
+[[packages.wheels]]
+name = "pyjwt-2.12.1-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/e5/7a/8dd906bd22e79e47397a61742927f6747fe93242ef86645ee9092e610244/pyjwt-2.12.1-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "28ca37c070cad8ba8cd9790cd940535d40274d22f80ab87f3ac6a713e6e8454c"
+
+[[packages]]
+name = "setuptools"
+version = "82.0.1"
+
+[[packages.wheels]]
+name = "setuptools-82.0.1-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/9d/76/f789f7a86709c6b087c5a2f52f911838cad707cc613162401badc665acfe/setuptools-82.0.1-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "a59e362652f08dcd477c78bb6e7bd9d80a7995bc73ce773050228a348ce2e5bb"
+
+[[packages]]
+name = "sqlparse"
+version = "0.5.5"
+
+[[packages.wheels]]
+name = "sqlparse-0.5.5-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/49/4b/359f28a903c13438ef59ebeee215fb25da53066db67b305c125f1c6d2a25/sqlparse-0.5.5-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "12a08b3bf3eec877c519589833aed092e2444e68240a3577e8e26148acc7b1ba"
+
+[[packages]]
+name = "uritemplate"
+version = "4.2.0"
+
+[[packages.wheels]]
+name = "uritemplate-4.2.0-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/a9/99/3ae339466c9183ea5b8ae87b34c0b897eda475d2aec2307cae60e5cd4f29/uritemplate-4.2.0-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "962201ba1c4edcab02e60f9a0d3821e82dfc5d2d6662a21abd533879bdb8a686"
+
+[[packages]]
+name = "wheel"
+version = "0.46.3"
+
+[[packages.wheels]]
+name = "wheel-0.46.3-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/87/22/b76d483683216dde3d67cba61fb2444be8d5be289bf628c13fc0fd90e5f9/wheel-0.46.3-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "4b399d56c9d9338230118d705d9737a2a468ccca63d5e813e2a4fc7815d8bc4d"
